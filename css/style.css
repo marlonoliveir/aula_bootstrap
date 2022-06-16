@@ -1,0 +1,52 @@
+ 
+/* barra de menu*/
+
+body{
+
+    color: #d1caca;
+        font-style: oblique;
+}
+.navbar{
+
+    background-color: 	#928f8f;
+    
+}
+
+
+ /* conteudo da section quem somos*/ 
+.quem-somos{
+
+    background-color: 	#928f8f;
+    
+}
+
+ /* margin0 é apenas um divisor com a funçao de uma borda*/ 
+.margin0{
+
+    background-color: 	#000000;
+    padding-top: 10px;
+}
+
+ /* texto personalidade*/ 
+.margin{
+
+    
+    background-color: 	#474747;
+    padding-top: 20px;
+}
+
+.txtpersonalidade{
+    padding-top: 3px;
+    color: #e2e2e2;
+    font-style: oblique;
+    font-size: large;
+    text-align: left;
+
+} /* termino*/ 
+
+.rodape{
+
+    background-color: 	#000000;
+    padding-top: 40px;
+    text-align: center;
+}
